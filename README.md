@@ -1,6 +1,6 @@
 # Sobre-mim
 
-# Olá 👋, eu sou [Tiago de Aquino Nunes]!
+# Olá 👋, eu sou o Tiago de Aquino Nunes!
 
 ### Profissional de Suporte de TI | Desenvolvedor Full-Stack em Formação
 
