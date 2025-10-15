@@ -16,7 +16,7 @@ Minhas competências se dividem entre Desenvolvimento, Infraestrutura e Seguran�
 | :--- | :--- | :--- |
 | **Backend** | Java, PHP, Python | Intermediário |
 | **Front-end** | HTML5, CSS3, JavaScript, Bootstrap (Básico) | Intermediário |
-| **Estudo Principal** | JSP (Foco TCC) | Avançado |
+| **Estudo Principal** | JSP (Foco TCC) | Intermediário |
 
 ### ⚙️ Servidores & Automação
 
