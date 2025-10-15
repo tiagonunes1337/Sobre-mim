@@ -17,7 +17,7 @@ Minhas competências se dividem entre Desenvolvimento de Software e Infraestrutu
 | Foco | Linguagens & Frameworks | Nível |
 | :--- | :--- | :--- |
 | **Backend** | Java, PHP, Python | Intermedário |
-| **Front-end** | HTML5, CSS3, JavaScript, Bootstrap(framework) (Básico) | Intermediário |
+| **Front-end** | HTML5, CSS3, JavaScript, Bootstrap(framework) | Intermediário |
 | **Estudo** | JSP (TCC) | Avançado |
 
 
