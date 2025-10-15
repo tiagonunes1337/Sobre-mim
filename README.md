@@ -1,10 +1,8 @@
-# Sobre-mim
-
-# Olá 👋, eu sou o Tiago de Aquino Nunes!
+# Olá 👋, eu sou Tiago de Aquino Nunes!
 
 ### Profissional de Suporte de TI | Desenvolvedor Full-Stack em Formação
 
-Com uma base sólida em **Suporte Técnico de TI** e um foco em **Engenharia de Software**, sou um profissional com experiência prática em infraestrutura (Windows Server, PowerShell) e conhecimento em múltiplas linguagens de programação (Java, PHP, Python, Front-end). Busco aliar o raciocínio lógico do backend com a gestão de sistemas.
+Com uma base sólida em **Suporte Técnico de TI** e um foco em **Engenharia de Software**, possuo experiência em infraestrutura (Windows Server, PowerShell) e conhecimento em múltiplas linguagens de programação (Java, PHP, Python, Front-end). Busco aliar o raciocínio lógico do backend com a gestão e automação de sistemas.
 
 ---
 
@@ -16,32 +14,34 @@ Minhas competências se dividem entre Desenvolvimento de Software e Infraestrutu
 
 | Foco | Linguagens & Frameworks | Nível |
 | :--- | :--- | :--- |
-| **Backend** | Java, PHP, Python | Intermedário |
-| **Front-end** | HTML5, CSS3, JavaScript, Bootstrap(framework) | Intermediário |
-| **Estudo** | JSP (TCC) | Avançado |
-
+| **Backend** | Java, PHP, Python | Intermediário |
+| **Front-end** | HTML5, CSS3, JavaScript, Bootstrap (Básico) | Intermediário |
+| **Estudo Principal** | JSP (Foco TCC) | Avançado |
 
 ### ⚙️ Servidores & Automação
 
 | Foco | Ferramentas & Tecnologias | Aplicações |
-
-| **Infraestrutura** | Windows Server(GPO) | Iniciante
-| Administração, Manutenção e Limpeza |
+| :--- | :--- | :--- |
+| **Infraestrutura** | Windows Server (GPO) | Iniciante na gestão de políticas e sistemas |
+| **Suporte** | Suporte Técnico/Téc. Informática | Administração, Manutenção e Limpeza de hardware/software |
 | **Automação** | PowerShell, Python | Scripts para tarefas recorrentes e gestão de sistemas |
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-  <img src="https://img.shields.io/badge/Suporte%20Técnico-000000?style=for-the-badge&logo=customer-service&logoColor=white" alt="Suporte Técnico">
 </p>
 
 ---
 
 ## 🎓 Educação e Experiência
 
-* **Estudante de Engenharia de Software (EAD 1º SEMESTRE)** - UCB
-* **Técnico em Informática (4º Semestre)** - Foco em JSP para TCC
-* **Estágio em Suporte Técnico/Técnico em Informática ** - Realizando manutenção e limpeza de computadores e impressoras.
+* **Engenharia de Software (EAD - 1º Semestre)** - UCB
+* **Técnico em Informática (4º Semestre)** - Foco em projeto de TCC com JSP.
+* **Estágio em Suporte Técnico de TI** - Atuação na manutenção de computadores e impressoras.
 
 ---
 
@@ -49,5 +49,7 @@ Minhas competências se dividem entre Desenvolvimento de Software e Infraestrutu
 
 Estou ativamente buscando oportunidades onde eu possa aplicar e expandir minhas habilidades em desenvolvimento e automação.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tiago-de-aquino-nunes-3297552ba/])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[tiagonunesbr@hotmail.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-de-aquino-nunes-3297552ba/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagonunesbr@hotmail.com)
+
+_📍 Residente em Brasília, DF._
