@@ -50,7 +50,7 @@ Minhas competências se dividem entre Desenvolvimento, Infraestrutura/Redes e Se
 
 ## 🎓 Educação e Experiência
 
-* **Engenharia de Software (EAD - 1º Semestre)** - UCB
+* **Engenharia de Software (1º Semestre)** - UCB
 * **Técnico em Informática (4º Semestre)** - Foco em projeto de TCC com JSP.
 * **Estágio em Suporte Técnico de TI** - Atuação na manutenção de computadores e impressoras.
 
