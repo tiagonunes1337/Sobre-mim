@@ -16,7 +16,7 @@ Minhas competências se dividem entre Desenvolvimento, Infraestrutura/Redes e Se
 | :--- | :--- | :--- |
 | **Backend** | Java, PHP, Python | Intermediário |
 | **Front-end** | HTML5, CSS3, JavaScript, Bootstrap (Básico) | Intermediário |
-| **Estudo Principal** | JSP (Foco TCC) | Avançado |
+| **Estudo Principal** | Java, PHP, Python | Intermediário |
 
 ### ⚙️ Infraestrutura, Redes & Automação
 
@@ -50,9 +50,9 @@ Minhas competências se dividem entre Desenvolvimento, Infraestrutura/Redes e Se
 
 ## 🎓 Educação e Experiência
 
-* **Engenharia de Software (1º Semestre)** - UCB
-* **Técnico em Informática (4º Semestre)** - Foco em projeto de TCC com JSP.
-* **Estágio em Suporte Técnico de TI** - Atuação na manutenção de computadores e impressoras.
+* **Engenharia de Software (2º Semestre)** - Universidade Católica de Brasília
+* **Técnico em Informática (Finalizado)** - Escola Técnica de Brasília.
+* **Estagiei como Assistente Técnico de TI** - Atuação na manutenção de computadores e impressoras com automação em Shell em computadores.
 
 ---
 
