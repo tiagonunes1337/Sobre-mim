@@ -1,8 +1,8 @@
 # Olá 👋, eu sou Tiago de Aquino Nunes!
 
-### Profissional de Suporte de TI | Desenvolvedor Full-Stack em Formação | Explorador de Cibersegurança
+### Estágiario de Infraestrutura e Suporte Técnico | Analista de Infraestrutura em formação 
 
-Com uma base sólida em **Suporte Técnico de TI** e um foco em **Engenharia de Software**, possuo experiência prática em infraestrutura (Windows Server, PowerShell) e conhecimento em múltiplas linguagens de programação. Atualmente, estou expandindo minhas habilidades nas áreas de **Segurança da Informação** e **Redes**.
+Estudante de Engenharia de Software com forte background em Suporte e Infraestrutura. Apaixonado por automatizar o que é repetitivo e por entender como os sistemas funcionam 'sob o capô'. Focado em migrar para o ecossistema de Cloud e Infraestrutura de Alta Performance.
 
 ---
 
@@ -16,17 +16,18 @@ Minhas competências se dividem entre Desenvolvimento, Infraestrutura/Redes e Se
 | :--- | :--- | :--- |
 | **Backend** | Java, PHP, Python | Intermediário |
 | **Front-end** | HTML5, CSS3, JavaScript, Bootstrap (Básico) | Intermediário |
-| **Estudo Principal** | Java, PHP, Python | Intermediário |
+| **Estudo Principal** | Python, Shell e Bash | Intermediário |
 
 ### ⚙️ Infraestrutura, Redes & Automação
 
 | Foco | Ferramentas & Tecnologias | Aplicações |
 | :--- | :--- | :--- |
-| **Servidores** | Windows Server (GPO) | Iniciante na gestão de políticas e sistemas |
+| **Servidores** | Windows Server (GPO) | Iniciante na gestão de políticas e sistemas | Docker |
 | **Redes** | Protocolos de Redes, Redes em Geral | Básico/Em Aprendizado |
 | **Simulação** | Cisco Packet Tracer 5.0 | Prática de topologias e protocolos |
-| **Automação** | PowerShell, Python | Scripts para tarefas recorrentes e gestão de sistemas |
+| **Automação** | PowerShell, Python, Shell| Scripts para tarefas recorrentes e gestão de sistemas |
 | **Suporte** | Suporte Técnico/Téc. Informática | Administração, Manutenção e Limpeza de hardware/software |
+| **Sistemas Operacionais** | Windows 10/11 | Ubuntu Intermédiario | Fedora Básico
 
 ### 🛡️ Segurança da Informação (Aprendizado)
 
@@ -50,9 +51,10 @@ Minhas competências se dividem entre Desenvolvimento, Infraestrutura/Redes e Se
 
 ## 🎓 Educação e Experiência
 
-* **Engenharia de Software (2º Semestre)** - Universidade Católica de Brasília
-* **Técnico em Informática (Finalizado)** - Escola Técnica de Brasília.
-* **Estagiei como Assistente Técnico de TI** - Atuação na manutenção de computadores e impressoras com automação em Shell em computadores.
+* **Engenharia de Software (1º Semestre)** - CEUB
+* **Técnico em Informática (Finalizado)** - Escola Técnica de Brasília. 
+* **Estagiei como Técnico de TI** - Atuação na manutenção de computadores e impressoras com automação em Shell em computadores. (MAIO/2025 - DEZEMBRO - 2025)
+* **Estagiando na First Decision** - Estagiário de Infraestrutura e Monitoramento na First Decision. Atuação na sustentação de ambientes, automação de processos e monitoramento de sistemas críticos.
 
 ---
 
