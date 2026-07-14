@@ -53,7 +53,7 @@ Minhas competências se dividem entre Desenvolvimento, Infraestrutura/Redes e Se
 
 * **Engenharia de Software (1º Semestre)** - CEUB
 * **Técnico em Informática (Finalizado)** - Escola Técnica de Brasília. 
-* **Estagiei como Técnico de TI** - Atuação na manutenção de computadores e impressoras com automação em Shell em computadores. (MAIO/2025 - DEZEMBRO - 2025)
+* **Estagiei como Técnico de TI na Tecnocopy Máquinas** - Atuação na manutenção de computadores e impressoras com automação em Shell em computadores. (MAIO/2025 - DEZEMBRO - 2025)
 * **Estagiando na First Decision** - Estagiário de Infraestrutura e Monitoramento na First Decision. Atuação na sustentação de ambientes, automação de processos e monitoramento de sistemas críticos.
 
 ---
